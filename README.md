@@ -38,8 +38,3 @@
 <p align="center">
   <em>"Decifrando a vida com humor, passos firmes, criatividade, natureza, tecnologia, mix de esportes, boas cias e a mente de uma eterna aprendiz."</em>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o0c2wwdHlxYjJrbGptZ3JsdTZkdmJ5OWtxYjl1ejU4bmV6Z2U2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gPNcLxFgHbY/giphy.gif" width="100" />
-</p>
-
